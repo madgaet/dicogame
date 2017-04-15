@@ -1,0 +1,7 @@
+be\trollcorporation\wikidoci\persistence\DictionaryFileDaoImpl.class
+be\trollcorporation\wikidoci\utils\FileLineHandler.class
+be\trollcorporation\wikidoci\utils\ConfigurationUtils.class
+be\trollcorporation\wikidoci\persistence\DictionaryFileDao.class
+be\trollcorporation\wikidoci\service\DictionaryService.class
+be\trollcorporation\wikidoci\service\DictionaryServiceImpl.class
+be\trollcorporation\wikidoci\service\WordSearchServiceImpl.class

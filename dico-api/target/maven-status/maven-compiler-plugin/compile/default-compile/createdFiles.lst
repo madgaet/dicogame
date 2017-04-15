@@ -1,0 +1,7 @@
+be\trollcorporation\wikidoci\utils\StringUtils.class
+be\trollcorporation\wikidoci\model\Mot.class
+be\trollcorporation\wikidoci\model\MotVariable.class
+be\trollcorporation\wikidoci\model\Definition.class
+be\trollcorporation\wikidoci\service\WordSearchService.class
+be\trollcorporation\wikidoci\model\MotInvariable.class
+be\trollcorporation\wikidoci\model\EnumClasseMot.class
